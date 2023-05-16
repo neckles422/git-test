@@ -1,1 +1,4 @@
-print ("bruh")
+print ("bruh moment")
+
+print ("a")
+
